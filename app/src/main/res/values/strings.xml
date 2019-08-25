@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My_Hotel_Booking_Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_99_day">$99/day</string>
+    <string name="tv_4_5_21_ratings">4.5(21 ratings)</string>
+    <string name="tv_free_wifi_swimming">Free Wifi.Swimming</string>
+    <string name="tv_check_in">Check In</string>
+    <string name="tv_check_out">Check Out</string>
+    <string name="tv_date1">07, Mar 2019</string>
+    <string name="tv_search">Search</string>
+    <string name="btn_89_day">$89/day</string>
+    <string name="tv_tulip_hotel">Tulip Hotel</string>
+    <string name="tv_sort_by">Sort BY</string>
+    <string name="tv_rating">Rating</string>
+    <string name="tv_90_350">$90-$350</string>
+    <string name="btn_filter_now">Filter Now</string>
+</resources>
